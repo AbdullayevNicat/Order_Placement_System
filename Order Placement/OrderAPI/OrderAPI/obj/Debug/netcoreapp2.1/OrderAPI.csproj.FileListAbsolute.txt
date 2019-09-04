@@ -1,0 +1,42 @@
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.deps.json
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.dll
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.pdb
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.dll
+C:\Users\Admin\Desktop\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.pdb
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.deps.json
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.json
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.dev.json
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.dll
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.pdb
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csprojAssemblyReference.cache
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cache
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cs
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfo.cs
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.dll
+C:\Users\Nicat\Desktop\Order System\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.pdb
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.deps.json
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.json
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.dll
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\bin\Debug\netcoreapp2.1\OrderAPI.pdb
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.AssemblyInfo.cs
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.dll
+C:\Users\Admin\Desktop\git\Order Placement\OrderAPI\OrderAPI\obj\Debug\netcoreapp2.1\OrderAPI.pdb

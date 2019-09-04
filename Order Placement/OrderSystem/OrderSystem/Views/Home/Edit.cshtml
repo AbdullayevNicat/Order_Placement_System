@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Edit";
+}
+@model OrderCustomerViewModel
+<header>
+    <h2>Edit</h2>
+</header>
+<main>
+    <form asp-controller="Home" asp-action="Edit" method="post">
+        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="row">
+            <div class="form-group col-md-6">
+                <input asp-for="@Model.OrderId" value="@Model.OrderId" type="hidden" />
+                <label asp-for="@Model.OrderName">Order Name</label>
+                <input asp-for="@Model.OrderName" type="text" value="@Model.OrderName" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.OrderName"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="@Model.OrderType">Order Type</label>
+                <input asp-for="@Model.OrderType" type="text" value="@Model.OrderType" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.OrderType"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-4">
+                <label asp-for="@Model.CustomerName">Customer Name</label>
+                <input asp-for="@Model.CustomerName" type="text" value="@Model.CustomerName" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerName"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="@Model.CustomerPhoneNumber">CustomerPhoneNumber</label>
+                <input asp-for="@Model.CustomerPhoneNumber" value="@Model.CustomerPhoneNumber" type="text" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerPhoneNumber"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="@Model.CustomerEmail">Customer Email</label>
+                <input asp-for="@Model.CustomerEmail" value="@Model.CustomerEmail" type="text" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerEmail"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-3">
+                <label asp-for="@Model.CustomerAddressMovingFrom">CustomerAddressMovingFrom</label>
+                <input asp-for="@Model.CustomerAddressMovingFrom" value="@Model.CustomerAddressMovingFrom" type="text" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerAddressMovingFrom"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="@Model.CustomerAddressMovingTo">CustomerAddressMovingTo</label>
+                <input asp-for="@Model.CustomerAddressMovingTo" value="@Model.CustomerAddressMovingTo" type="text" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerAddressMovingTo"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="@Model.CustomerNote">CustomerNote</label>
+                <input asp-for="@Model.CustomerNote" type="text" value="@Model.CustomerNote" class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerNote"></span>
+            </div>
+            <div class="form-group col-md-3">
+                <label asp-for="@Model.CustomerOrderDate">Customer OrderDate</label>
+                <input asp-for="@Model.CustomerOrderDate" type="date" asp-format="{0:yyyy-MM-dd}" value="@Model.CustomerOrderDate.ToString("yyyy-MM-dd")"  class="form-control">
+                <span class="alert-danger" asp-validation-for="@Model.CustomerOrderDate"></span>
+            </div>
+        </div>
+        <input type="submit" class="btn btn-primary" value="Update" />
+        <a asp-controller="Home" asp-action="Index" class="btn btn-info">Back</a>
+    </form>
+</main>
+
+
